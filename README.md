@@ -84,7 +84,7 @@ class ViewController: UIViewController {
 通过 `菜单栏->Product->Scheme->Edit Scheme->Run->Info->Configuration`选择`Debug`或`Release`来运行项目，结果如下图
 
 ![Debug模式.png](./doc/images/Debug模式.png)
-![Release模式](images/Release模式.jpg)
+![Release模式](./doc/images/Release模式.jpg)
 
 # 为项目创建不同的Target
 
