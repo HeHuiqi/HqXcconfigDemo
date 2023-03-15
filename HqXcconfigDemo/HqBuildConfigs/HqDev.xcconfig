@@ -1,0 +1,12 @@
+//
+//  HqDev.xcconfig
+//  HqXcconfigDemo
+//
+//  Created by hehuiqi on 2023/3/14.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APP_TARGET_TYPE = dev
+API_PROTOCAL = http
+API_HOST = 127.0.0.1:8000
